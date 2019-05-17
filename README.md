@@ -16,11 +16,11 @@ Các tài liệu hỗ trợ nên đọc để sử dụng hiệu quả repo này
 
 Các mẫu document hiện có:
 
-- [ ] **📄 General** (dùng chung cho mọi dự án, thường là file đầu tiên người dùng đọc)
-- [ ] **🎨 UI Components** (reactjs, vuejs, ...)
-- [ ] **📏 Utilities** (các hàm utils, API, ...)
-- [ ] **📁 Structure** (cách tổ chức source code)
-- [ ] **🌀 Guides** (hướng dẫn sử dụng, config chi tiết, ...)
+- [x] [**📄 General**](examples/general.md) (dùng chung cho mọi dự án, thường là file đầu tiên người dùng đọc)
+- [ ] [**🎨 UI Components**](examples/components.md) (reactjs, vuejs, ...)
+- [ ] [**📏 Utilities**](examples/utilities.md) (các hàm utils, API, ...)
+- [ ] [**📁 Structure**](examples/structure.md) (cách tổ chức source code)
+- [ ] [**🌀 Guides**](examples/guides.md) (hướng dẫn sử dụng, config chi tiết, ...)
 
 ## Yêu cầu
 
@@ -33,7 +33,8 @@ Các mẫu document hiện có:
 git clone https://github.com/EGANY-Team/document-templates
 
 # Truy cập vào thư mục document mẫu
-cd document-templates/examples
+cd document-templates/templates
 
-# Lựa chọn cho mình một hoặc nhiều kiểu document phù hợp, copy vào repo đang làm và chỉnh sửa theo ý muốn
+# Lựa chọn cho mình một hoặc nhiều kiểu document phù hợp,
+# copy vào repo đang làm và chỉnh sửa theo ý muốn
 ```
