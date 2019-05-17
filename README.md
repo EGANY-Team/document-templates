@@ -33,7 +33,7 @@ Các mẫu document hiện có:
 git clone https://github.com/EGANY-Team/document-templates
 
 # Truy cập vào thư mục document mẫu
-cd document-templates/templates
+cd document-templates/examples
 
 # Lựa chọn cho mình một hoặc nhiều kiểu document phù hợp,
 # copy vào repo đang làm và chỉnh sửa theo ý muốn
