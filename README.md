@@ -1,4 +1,4 @@
-# Kho document
+# 📚 Kho document
 
 > Lần cuối cập nhật: 17/05/2019
 
@@ -16,11 +16,11 @@ Các tài liệu hỗ trợ nên đọc để sử dụng hiệu quả repo này
 
 Các mẫu document hiện có:
 
-- [ ] **General** (dùng chung cho mọi dự án, thường là file đầu tiên người dùng đọc)
-- [ ] **UI Components** (reactjs, vuejs, ...)
-- [ ] **Utilities** (các hàm utils, API, ...)
-- [ ] **Structure** (cách tổ chức source code)
-- [ ] **Guides** (hướng dẫn sử dụng, config chi tiết, ...)
+- [ ] **📄 General** (dùng chung cho mọi dự án, thường là file đầu tiên người dùng đọc)
+- [ ] **🎨 UI Components** (reactjs, vuejs, ...)
+- [ ] **📏 Utilities** (các hàm utils, API, ...)
+- [ ] **📁 Structure** (cách tổ chức source code)
+- [ ] **🌀 Guides** (hướng dẫn sử dụng, config chi tiết, ...)
 
 ## Yêu cầu
 
