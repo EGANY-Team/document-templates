@@ -17,7 +17,7 @@ Các tài liệu hỗ trợ nên đọc để sử dụng hiệu quả repo này
 Các mẫu document hiện có:
 
 - [x] [**📄 General**](./general.md) (dùng chung cho mọi dự án, thường là file đầu tiên người dùng đọc)
-- [ ] [**🎨 UI Components**](./components.md) (reactjs, vuejs, ...)
+- [x] [**🎨 UI Components**](./components.md) (reactjs, vuejs, ...)
 - [ ] [**📏 Utilities**](./utilities.md) (các hàm utils, API, ...)
 - [ ] [**📁 Structure**](./structure.md) (cách tổ chức source code)
 - [ ] [**🌀 Guides**](./guides.md) (hướng dẫn sử dụng, config chi tiết, ...)
