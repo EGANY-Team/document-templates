@@ -24,7 +24,7 @@ Các mẫu document hiện có:
 
 Tips & tricks:
 
-- [ ] [**Link video vào markdown**]("./guides/embed-video.md)
+- [x] [**Link video vào markdown**](./guides/embed-video.md)
 
 ## Yêu cầu
 
