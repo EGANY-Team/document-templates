@@ -19,7 +19,7 @@ Các mẫu document hiện có:
 - [x] [**📄 General**](./general.md) (dùng chung cho mọi dự án, thường là file đầu tiên người dùng đọc)
 - [x] [**🎨 UI Components**](./components.md) (reactjs, vuejs, ...)
 - [x] [**📏 Utilities**](./utilities.md) (các hàm utils, API, ...)
-- [ ] [**📁 Structure**](./structure.md) (cách tổ chức source code)
+- [x] [**📁 Structure**](./structure.md) (cách tổ chức source code)
 - [ ] [**🌀 Guides**](./guides.md) (hướng dẫn sử dụng, config chi tiết, ...)
 
 ## Yêu cầu
