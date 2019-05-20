@@ -1,4 +1,4 @@
-# UI Components Document
+# 🎨 UI Components Document
 
 ## Danh sách components
 
@@ -29,10 +29,10 @@ import Button from "./components/Button";
 </Button>;
 ```
 
-| Prop    | Description                                    | Type              | Required | Default Value |
-| ------- | ---------------------------------------------- | ----------------- | -------- | ------------- |
-| type    | Style của button, bao gồm `primary` và `info`. | `string`          | --       | --            |
-| onClick | Hàm được chạy khi nhấn vào nút.                | `function(event)` | --       | --            |
+| Prop      | Description                                    | Type              | Required | Default Value |
+| --------- | ---------------------------------------------- | ----------------- | -------- | ------------- |
+| `type`    | Style của button, bao gồm `primary` và `info`. | `string`          | `fasle`  | --            |
+| `onClick` | Hàm được chạy khi nhấn vào nút.                | `function(event)` | `false`  | --            |
 
 Nếu cách viết table như trên khó quá thì có thể dụng dạng HTML như sau:
 
@@ -53,14 +53,14 @@ Nếu cách viết table như trên khó quá thì có thể dụng dạng HTML 
       <td>type</td>
       <td>Style của button, bao gồm `primary` và `info`.</td>
       <td>string</td>
-      <td>--</td>
+      <td>false</td>
       <td>--</td>
     </tr>
     <tr>
       <td>onClick</td>
       <td>Hàm được chạy khi nhấn vào nút.</td>
       <td>function(event)</td>
-      <td>--</td>
+      <td>false</td>
       <td>--</td>
     </tr>
   </tbody>
