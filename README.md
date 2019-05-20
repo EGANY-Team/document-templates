@@ -25,6 +25,7 @@ Các mẫu document hiện có:
 Tips & tricks:
 
 - [x] [**Link video vào markdown**](./guides/embed-video.md)
+- [x] [**Tạo mục lục (table of contents)**](./guides/table-of-content.md)
 
 ## Yêu cầu
 
