@@ -1,6 +1,6 @@
 # 📚 Kho document
 
-> Lần cuối cập nhật: 17/05/2019
+> Lần cuối cập nhật: 20/05/2019
 
 ## Giới thiệu
 
