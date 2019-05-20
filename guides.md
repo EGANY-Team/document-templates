@@ -98,20 +98,4 @@ Ví dụ:
 
 **Dạng video**
 
-```html
-<video controls src="video_url"></video>
-
-<!-- Ví dụ -->
-<video controls src="https://youtu.be/Llw9Q6akRo4"></video>
-<!-- Youtube video (xem hướng dẫn ở trên) -->
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/Llw9Q6akRo4"
-  frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-></iframe>
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Llw9Q6akRo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Do [_Github_](https://github.com) không hỗ trợ video nên buộc chúng ta phải làm theo hướng dẫn [tại đây](./guides/embed-video.md)

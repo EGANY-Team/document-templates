@@ -22,6 +22,10 @@ Các mẫu document hiện có:
 - [x] [**📁 Structure**](./structure.md) (cách tổ chức source code)
 - [x] [**🌀 Guides**](./guides.md) (hướng dẫn sử dụng, config chi tiết, ...)
 
+Tips & tricks:
+
+- [ ] [**Link video vào markdown**]("./guides/embed-video.md)
+
 ## Yêu cầu
 
 - [Git](https://git-scm.com)
